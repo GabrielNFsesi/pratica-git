@@ -1,0 +1,3 @@
+mkdir nome-da-pasta (serve para criar uma nova pasta)
+git init (inicializa um novo repositório Git na pasta onde você está)
+git add nome-do-arquivo (serve para adicionar o arquivo especificado à área de stage do Git, ou seja, preparar esse arquivo para ser incluído no próximo commit.)

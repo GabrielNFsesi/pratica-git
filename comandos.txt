@@ -1,0 +1,5 @@
+git init – (Inicializa um novo repositório Git no diretório atual.)
+git add . – (Adiciona todos os arquivos do projeto à área de staging.)
+git commit -m "Primeiro commit" – (Cria o primeiro commit com uma mensagem descritiva.)
+git branch -(M main – Renomeia a branch principal para main.)
+git remote add origin https://github.com/usuario/repositorio.git – (Conecta o repositório local a um repositório remoto no GitHub (substitua a URL pela sua).)
