@@ -1,0 +1,1 @@
+“No git aprendi a como criar um arquivo, como escrever dentro dele no git bash e como funciona o git hub”
